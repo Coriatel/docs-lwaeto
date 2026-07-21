@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-mb275v.date-me.pro/sitemap.xml
